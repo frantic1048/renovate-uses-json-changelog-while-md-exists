@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@rightcapital/eslint-config-javascript": "14.0.0",
+    "@rightcapital/eslint-config-javascript": "14.0.2",
     "@rightcapital/prettier-config": "6.0.0"
   }
 }
