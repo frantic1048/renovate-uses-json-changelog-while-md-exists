@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@rightcapital/eslint-config-javascript':
-    specifier: 14.0.0
-    version: 14.0.0(eslint@8.53.0)
+    specifier: 14.0.2
+    version: 14.0.2(eslint@8.53.0)
   '@rightcapital/prettier-config':
     specifier: 6.0.0
     version: 6.0.0(prettier@3.1.0)
@@ -97,8 +97,8 @@ packages:
       fastq: 1.15.0
     dev: true
 
-  /@rightcapital/eslint-config-base@14.0.0(eslint@8.53.0):
-    resolution: {integrity: sha512-pSx3xEXm4ZpNcpuwI94vw6uCmY0liBOUxfQgRaWH4V4P6DoQbOSD8ApQWiE5y79HJBUJYDwbHcyVw97c6cJEzw==}
+  /@rightcapital/eslint-config-base@14.0.2(eslint@8.53.0):
+    resolution: {integrity: sha512-4oIpfs18QQ6IJnTqbXirZmmPDLysjZODdmDYVQ9yDeZXNPD3Lq78stdG0Hnm1KLB8gXzxn6/yAK2917gILWPmw==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       eslint: ^8.23.1
@@ -115,13 +115,13 @@ packages:
       - supports-color
     dev: true
 
-  /@rightcapital/eslint-config-javascript@14.0.0(eslint@8.53.0):
-    resolution: {integrity: sha512-OWk5Yvyt5axcaz/yYQnlP9rQMa3A6xA5LjDlpJ4GMbu4BgB5lFkSjYm4kw0rPYO2Rz5c3x0qk7rpCGEXknIRKw==}
+  /@rightcapital/eslint-config-javascript@14.0.2(eslint@8.53.0):
+    resolution: {integrity: sha512-7MqYcodCzcJqyS6zZuH08q+haBDN+O2sLWyDdQJkOAOw4WI4tCwXrVYTyQD7SvkuduQT+LMrZbHbMka02ZTG0A==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       eslint: ^8.23.1
     dependencies:
-      '@rightcapital/eslint-config-base': 14.0.0(eslint@8.53.0)
+      '@rightcapital/eslint-config-base': 14.0.2(eslint@8.53.0)
       '@rushstack/eslint-patch': 1.5.1
       eslint: 8.53.0
       eslint-config-prettier: 9.0.0(eslint@8.53.0)
