@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "@rightcapital/eslint-config-javascript": "14.0.0",
-    "@rightcapital/prettier-config": "6.0.0"
+    "@rightcapital/prettier-config": "6.0.6"
   }
 }
